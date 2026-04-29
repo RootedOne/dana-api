@@ -20,7 +20,7 @@ CineSearch Pro is a robust, production-ready microservice built in Go that ident
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RootedOne/dana-golang-api
+   git clone https://github.com/RootedOne/dana-api
    cd cinesearch-pro
    ```
 
