@@ -92,6 +92,17 @@ The service exposes a single POST endpoint.
 }
 ```
 
+## 🧹 Maintenance & Cleanup
+
+To keep your environment lean and prevent Docker storage bloat, a utility script is provided to fully tear down the service and its associated artifacts.
+
+### Create the Cleanup Script
+If you didn't clone the repository with the script included, you can create it manually:
+
+1. Create the file:
+   ```bash
+   nano cleanup.sh
+
 *(Note: The system is constrained to return exactly 5 guesses based on the criteria in `prompts/system.xml`. If the TMDB lookup fails, a fallback image placeholder is provided.)*
 
 ## Contributors
