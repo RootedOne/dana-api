@@ -91,6 +91,3 @@ The service exposes a single POST endpoint.
 
 *(Note: The system is constrained to return exactly 5 guesses based on the criteria in `prompts/system.xml`.)*
 
-## Contributors
-
-[Your Name/Organization]
