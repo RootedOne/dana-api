@@ -104,4 +104,3 @@ To keep your environment lean and prevent Docker storage bloat, a utility script
 
 *(Note: The system is constrained to return exactly 5 guesses based on the criteria in `prompts/system.xml`. If the TMDB lookup fails, a fallback image placeholder is provided.)*
 
-## Contributors
